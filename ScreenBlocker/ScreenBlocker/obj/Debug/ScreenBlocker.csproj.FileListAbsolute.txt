@@ -1,0 +1,10 @@
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\bin\Debug\ScreenBlocker.exe.config
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\bin\Debug\ScreenBlocker.exe
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\bin\Debug\ScreenBlocker.pdb
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.csproj.AssemblyReference.cache
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.Main.resources
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.Properties.Resources.resources
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.csproj.GenerateResource.cache
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.csproj.CoreCompileInputs.cache
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.exe
+C:\Users\csxsy\Desktop\ScreenBlocker\ScreenBlocker\obj\Debug\ScreenBlocker.pdb
